@@ -5,10 +5,13 @@ This project aims to analyze heart disease data using machine learning technique
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Cluster Configuration](#cluster-configuration)
+- [Dataset Source](#dataset-source)
 - [Analytical Queries](#analytical-queries)
 - [Machine Learning Model](#machine-learning-model)
 - [Presentation of Results](#presentation-of-results)
+
+## Dataset Source
+The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease). It provides personal key indicators of heart disease and serves as the foundation for the analytical and predictive tasks undertaken in this project.
 
 
 ## Analytical Queries
