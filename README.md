@@ -1,6 +1,6 @@
 # Heart Disease Analysis with Machine Learning
 
-**Collaborators:** [Zuzanna Gielec](https://github.com/ZuzannaGielec), [MatasGedziunas](https://github.com/MatasGedziunas?tab=overview&from=2023-12-01&to=2023-12-31), [IgnasTa](https://github.com/IgnasTa?tab=overview&from=2024-05-01&to=2024-05-29), [Imane Zagrari]
+**Collaborators:** [Zuzanna Gielec](https://github.com/ZuzannaGielec), [MatasGedziunas](https://github.com/MatasGedziunas?tab=overview&from=2023-12-01&to=2023-12-31), [IgnasTa](https://github.com/IgnasTa?tab=overview&from=2024-05-01&to=2024-05-29), [Imane Zagrari](https://github.com/imanezagrari)
 
 ## Introduction
 This project aims to analyze heart disease data using machine learning techniques. The dataset contains information about various factors related to heart health, such as age, smoking status, alcohol consumption, BMI, sleeping patterns, and physical activity. The analysis includes both descriptive statistics and the development of a machine learning model to predict the likelihood of heart disease based on the provided features.
